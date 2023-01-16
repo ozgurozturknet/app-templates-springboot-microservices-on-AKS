@@ -2,7 +2,7 @@
 ## Description 
 In this sample app template of the PetClinic Microservices application (a Spring Boot based app). Each of the Application Microservices are containerized and deployed to an Azure Kubernetes Service (AKS) cluster secured by Azure Firewall
 
-## Deploy Spring Boot apps using Azure Services:
+## Deploy Spring Boot apps using Azure Services::
 
 ---
 Tech stack:
